@@ -1,0 +1,15 @@
+body {
+    background-image: url('./img/sfondo_colori_CSP_1920x1080_trasparXXL.jpg');
+    background-size: 100%;
+}
+body p {
+    text-align: justify;
+}
+
+img {
+    max-width: 400px;
+}
+
+.italico {
+    font-style: oblique;
+}
