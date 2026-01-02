@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php
-        header("Location: ./itinerario")
+        header("Location: https://www.itinerarioveneto.it/itinerario")
     ?>
 </body>
 </html>
